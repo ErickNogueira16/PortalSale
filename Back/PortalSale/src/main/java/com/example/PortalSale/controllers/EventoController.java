@@ -45,4 +45,5 @@ public class EventoController {
     public List<Evento> buscarEventos(@RequestParam String nome){
         return eventoService.buscarPorNome(nome);
     }
+
 }

@@ -80,14 +80,14 @@ function recuperarSenha() {
  * Redireciona para a página de eventos
  */
 function redirecionarParaEventos() {
-  window.location.href = "../eventos/eventos.html"
+  window.location.href = "../eventos/eventos_novo.html";
 }
 
 /**
  * Redireciona para a página de marcar eventos
  */
 function redirecionarParaMarcarEventos() {
-  window.location.href = "../cadastro/cadastro.html"
+  window.location.href = "../cadastro/cadastro.html";
 }
 
 /**
